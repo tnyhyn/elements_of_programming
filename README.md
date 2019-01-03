@@ -1,3 +1,3 @@
-# elements_of_programming
+# Elements of Programming
 
-Elements of Programming
+by Aziz, Lee, Prakash
