@@ -1,8 +1,9 @@
-def count_bits(x):
-    num_bits = 0
-    while x:
-        num_bits += x & 1
-        x >>= 1
-    return num_bits
+a = [1,2,3,4,5,6]
 
-print(count_bits(12))
+print(a * [0] * 3)
+
+for i in a:
+    a.append(i)
+    print(i)
+
+    
