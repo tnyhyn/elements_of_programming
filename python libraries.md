@@ -1,3 +1,2 @@
-import functools
-
+import functools  
 import string
